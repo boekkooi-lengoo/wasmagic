@@ -1,5 +1,5 @@
 {
-  "name": "wasmagic",
+  "name": "@boekkooi-lengoo/wasmagic",
   "version": "0.0.0-dev",
   "description": "WASM compiled version of libmagic",
   "repository": "boekkooi-lengoo/wasmagic",
