@@ -69,8 +69,8 @@ export class WASMagic {
     return new WASMagic(Module, flag);
   }
 
-  private Module: LibmagicModule;
-  private getMimeFromWasm: typeof wrappedGetMime;
+  private readonly Module: LibmagicModule;
+  private readonly getMimeFromWasm: typeof wrappedGetMime;
 
   private constructor(Module: LibmagicModule, flag: WASMagicFlags) {
     this.Module = Module;
