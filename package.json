@@ -2,7 +2,7 @@
   "name": "wasmagic",
   "version": "0.0.0-dev",
   "description": "WASM compiled version of libmagic",
-  "repository": "moshen/wasmagic",
+  "repository": "boekkooi-lengoo/wasmagic",
   "keywords": [
     "magic",
     "libmagic",
